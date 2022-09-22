@@ -1,2 +1,15 @@
 # Math_211
-Python routines that make operations with matrices
+Just some functions that  make operations with matrices
+
+**Functions**
+- Cofactor
+- Minor
+- Determinant
+- Cofactor Matrix
+
+**Future Functions**
+- Inverse Matrix
+- Transpose
+- Sum of matrices
+- Scalar Multiplication
+- Product of Matrices
