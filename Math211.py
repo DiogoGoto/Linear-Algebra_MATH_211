@@ -454,7 +454,7 @@ def print_cramers(A,B_):
     sizeA = biggest_row(A)
     sizeB = biggest_row(B)
 
-    print("Crammer's Rule ")
+    print("Cramer's Rule ")
     print("A * X = B")
     print("the values for the variables are in Matrix X")
     print()
