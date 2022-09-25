@@ -1,15 +1,18 @@
 # Math_211
 Just some functions that  make operations with matrices
 
+## Patch notes:
 **Functions**
 - Cofactor
 - Minor
 - Determinant
 - Cofactor Matrix
-
-**Future Functions**
 - Inverse Matrix
-- Transpose
-- Sum of matrices
+- Adjugate Matrix
+- Sum of Matratices
+- Subtraction of Matrices
 - Scalar Multiplication
 - Product of Matrices
+- Cramer's Rule (Systems of equations)
+
+
