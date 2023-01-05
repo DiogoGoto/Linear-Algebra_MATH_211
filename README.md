@@ -1,7 +1,7 @@
 # Math_211
 Just some functions that  make operations with matrices
 
-** Matrices Functions**
+**Matrices Functions**
 - Cofactor
 - Minor
 - Determinant
@@ -14,7 +14,7 @@ Just some functions that  make operations with matrices
 - Product of Matrices
 - Cramer's Rule (Systems of equations)
 
-** Rn Vectors Fuctions **
+**Rn Vectors Fuctions**
 - Included Angle
 - Dot Product
 - Cross Product
@@ -29,7 +29,7 @@ Just some functions that  make operations with matrices
 - Plane Equation finder
 - Rhombus creator 
 
-** Complex Numbers functions **
+**Complex Numbers Functions**
 - Conjugates
 - Square Root of Complex Numbers
 - Root finder for quadratic equation with complex numbers
